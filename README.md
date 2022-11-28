@@ -1,2 +1,4 @@
 # My-First-Repo
-e
+This is my first github respitory.
+I love gaming.
+HELLO
